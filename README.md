@@ -1,5 +1,33 @@
 # get-dogged
-**This is just a stupid project with the dog.**
-NOTE: This script is Linux-only. You can use a VM too but won't be too pleasent.
-You must have mpv, mplayer, ffplay or vlc in order for it to work, with also zenity and wmctrl. If these are missing, use sudo apt install zenity and sudo apt install wmctrl.
-PUT THE MP3 FILE ON THE DESKTOP, ANY OTHER PLACE WILL NOT WORK.
+
+A harmless, Bash-based script that displays fake errors with a refrenced music in the background.
+
+## Features
+- **Non-destructive**: Only shows fake errors. No real system changes are made to your computer.
+- **Customizable**: Change the script to your liking (Error messages and music).
+- **ZIP download**: Pre-packaged releases with ease of use.
+- **Lightweight**: Uses zenity (GUI) and mpv, mplayer, ffplay or vlc. (audio)
+
+## Installation Process
+1. Download the latest release (or any version):
+```bash
+https://github.com/kursataliakdag/get-dogged/releases
+```
+2. Unzip the archive
+```bash
+Put the audio file on your desktop, use chmod +x dogged.sh, then ./dogged.sh
+```
+
+## Dependencies
+- `zenity`for the dialog
+- `mpv`, `mplayer`, `ffplay` OR `vlc` (recommended).
+
+Install on Debian/Ubuntu (or any Debian/Ubuntu based distro) if dependencies are missing:
+```bash
+sudo apt install zenity
+```
+```bash
+sudo apt install vlc
+```
+
+## Okay, enjoy this thing I made!
