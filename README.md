@@ -18,7 +18,8 @@ https://github.com/kursataliakdag/get-dogged/releases
 ```
 2. Unzip the archive
 ```bash
-Put the audio file on your desktop, use chmod +x dogged.sh, then ./dogged.sh
+From now on, all scripts after dogged-3 will require to be on their folders (e.g ~/Downloads/dogged3).
+First use "chmod +x dogged.sh" to make the script executable, then "./dogged.sh to run it.
 ```
 
 ## Dependencies
