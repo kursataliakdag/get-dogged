@@ -4,7 +4,6 @@ A harmless, Bash-based script that displays fake errors with a refrenced music i
 
 **NOTE**: Before downloading the ZIP file, please verify the SHA256.
 
-v1.0.0 SHA256: 7750f6b965823f07e725fa6bd3d299f6c817abedf6fbc19892d29bf47ab67287
 
 ## Features
 - **Non-destructive**: Only shows fake errors. No real system changes are made to your computer.
