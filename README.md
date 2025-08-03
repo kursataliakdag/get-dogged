@@ -1,6 +1,6 @@
 # get-dogged
 
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 A harmless, Bash-based script that displays fake errors. (and maybe has some refrences in)
 
