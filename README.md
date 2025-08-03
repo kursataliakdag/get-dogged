@@ -1,6 +1,6 @@
 # get-dogged
 
-A harmless, Bash-based script that displays fake errors with a refrenced music in the background.
+A harmless, Bash-based script that displays fake errors. (and maybe has some refrences in)
 
 **NOTE**: Before downloading the ZIP file, please verify the SHA256.
 
