@@ -18,8 +18,8 @@ https://github.com/kursataliakdag/get-dogged/releases
 ```
 2. Unzip the archive
 ```bash
-From now on, all scripts after dogged-3 will require to be on their folders (e.g ~/Downloads/dogged3).
-First use "chmod +x dogged.sh" to make the script executable, then "./dogged.sh to run it.
+dogged to dogged-2, extract the mandatory files onto desktop. dogged-3 to mysteryman, files must be in the extracted folder. dogged-3.1 and later will require to have the mandatory files in the files folder in the extracted folder.
+First use "chmod +x dogged.sh" to make the script executable, then "./dogged.sh" to run it. (Unquoted)
 ```
 
 ## Dependencies
