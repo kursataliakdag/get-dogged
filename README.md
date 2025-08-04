@@ -11,7 +11,7 @@ A harmless, Bash-based script that displays fake errors. (and maybe has some ref
 - **Non-destructive**: Only shows fake errors. No real system changes are made to your computer.
 - **Customizable**: Change the script to your liking (Error messages and music).
 - **ZIP download**: Pre-packaged releases with ease of use.
-- **Lightweight**: Uses zenity (GUI) and mpv, mplayer, ffplay or vlc. (audio)
+- **Lightweight**: Uses zenity (GUI) and mpv or vlc. (video)
 
 ## Installation Process
 1. Download the latest release (or any version):
@@ -26,7 +26,7 @@ First use "chmod +x dogged.sh" to make the script executable, then "./dogged.sh"
 
 ## Dependencies
 - `zenity`for the dialog
-- `mpv`, `mplayer`, `ffplay` OR `vlc` (recommended).
+- `mpv` OR `vlc` (recommended).
 
 Install on Debian/Ubuntu (or any Debian/Ubuntu based distro) if dependencies are missing:
 ```bash
