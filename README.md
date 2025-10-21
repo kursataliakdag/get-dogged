@@ -27,13 +27,21 @@ First use "chmod +x dogged.sh" to make the script executable, then "./dogged.sh"
 ## Dependencies
 - `zenity`for the dialog
 - `mpv` OR `vlc` (recommended).
-
-Install on Debian/Ubuntu (or any Debian/Ubuntu based distro) if dependencies are missing:
+- Preferred Linux distro installation for the dependencies:
+### VideoLAN VLC
 ```bash
-sudo apt install zenity
+sudo apt install vlc (Debian/Ubuntu)
+sudo dnf install vlc (Fedora/RHEL)
+sudo pacman -S vlc (Arch Linux)
+sudo zypper install vlc (openSUSE)
+sudo eopkg install vlc (Solus)
 ```
+### zenity GUI
 ```bash
-sudo apt install vlc
+sudo apt install zenity (Debian/Ubuntu)
+sudo dnf install zenity (Fedora/RHEL)
+sudo pacman -S zenity (Arch Linux)
+sudo zypper install zenity (openSUSE)
+sudo eopkg install zenity (Solus)
 ```
-
 ## Okay, enjoy this thing I made!
