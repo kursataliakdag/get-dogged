@@ -5,4 +5,4 @@
  scripts/** linguist-language=Shell
 
 # You can also explicitly mark individual files if needed:
- # dogged.sh linguist-language=Shell
+  dogged.sh linguist-language=Shell
