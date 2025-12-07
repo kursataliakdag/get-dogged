@@ -1,0 +1,8 @@
+# Tell GitHub Linguist to ignore the large binary archive so it doesn't skew language stats
+ dogged1.zip linguist-vendored=true
+
+# Ensure shell scripts are counted as Shell (useful if they lack .sh extension)
+ scripts/** linguist-language=Shell
+
+# You can also explicitly mark individual files if needed:
+ # dogged.sh linguist-language=Shell
