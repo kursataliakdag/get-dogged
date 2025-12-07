@@ -1,6 +1,6 @@
 # get-dogged
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) [...]
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Built with:
 - Shell / Bash
@@ -23,7 +23,7 @@ https://github.com/kursataliakdag/get-dogged/releases
 ```
 2. Unzip the archive
 ```bash
-dogged to dogged-2, extract the mandatory files onto desktop. dogged-3 to mysteryman, files must be in the extracted folder. dogged-3.1 and later will require to have the mandatory files in the fi[...] 
+dogged to dogged-2, extract the mandatory files onto desktop. dogged-3 to mysteryman, files must be in the extracted folder. dogged-3.1 and later will require to have the mandatory files in the files folder.
 First use "chmod +x dogged.sh" to make the script executable, then "./dogged.sh" to run it. (Unquoted)
 ```
 
